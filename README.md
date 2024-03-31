@@ -79,4 +79,3 @@ Contributions are welcome! Please follow these steps to contribute:
 ## Contact
 
 If you have any questions or suggestions, feel free to contact the project maintainer at [ypranjal2001@gmail.com](mailto:ypranjal2001@gmail.com).
-```
